@@ -1,0 +1,1643 @@
+2020-11-04 22:58:06.119   Log opened. (Time zone: UTC+05:30)
+2020-11-04 22:58:06.119   Setup version: Inno Setup version 5.5.9 (a)
+2020-11-04 22:58:06.120   Original Setup EXE: C:\Users\akhilab\Downloads\My App Installer.exe
+2020-11-04 22:58:06.120   Setup command line: /SL5="$F31138,87570186,122368,C:\Users\akhilab\Downloads\My App Installer.exe" /SPAWNWND=$360E84 /NOTIFYWND=$4C1332 /LOG="11042257"
+2020-11-04 22:58:06.120   Windows version: 10.0.17763  (NT platform: Yes)
+2020-11-04 22:58:06.120   64-bit Windows: Yes
+2020-11-04 22:58:06.120   Processor architecture: x64
+2020-11-04 22:58:06.120   User privileges: Administrative
+2020-11-04 22:58:06.122   64-bit install mode: Yes
+2020-11-04 22:58:06.126   Created temporary directory: C:\Users\akhilab\AppData\Local\Temp\is-I2I6P.tmp
+2020-11-04 22:58:13.303   Is upgrade: "C:\Program Files\My App\unins000.exe"
+2020-11-04 22:58:17.277   Starting the installation process.
+2020-11-04 22:58:17.635   Creating directory: C:\Program Files\My App\assets
+2020-11-04 22:58:17.636   Setting permissions on directory: C:\Program Files\My App\assets
+2020-11-04 22:58:17.636   Starting 64-bit helper process.
+2020-11-04 22:58:17.674   Helper process PID: 27596
+2020-11-04 22:58:17.717   Directory for uninstall files: C:\Program Files\My App
+2020-11-04 22:58:17.717   Creating new uninstall log: C:\Program Files\My App\unins001.dat
+2020-11-04 22:58:17.719   -- File entry --
+2020-11-04 22:58:17.719   Dest filename: C:\Program Files\My App\unins001.exe
+2020-11-04 22:58:17.719   Non-default bitness: 32-bit
+2020-11-04 22:58:17.721   Time stamp of our file: 2020-11-04 22:58:05.934
+2020-11-04 22:58:17.721   Installing the file.
+2020-11-04 22:58:17.723   Uninstaller requires administrator: Yes
+2020-11-04 22:58:17.727   Successfully installed the file.
+2020-11-04 22:58:17.728   -- File entry --
+2020-11-04 22:58:17.728   Dest filename: C:\Program Files\My App\dt6-icon.ico
+2020-11-04 22:58:17.728   Time stamp of our file: 2020-04-17 17:44:08.000
+2020-11-04 22:58:17.728   Installing the file.
+2020-11-04 22:58:17.736   Successfully installed the file.
+2020-11-04 22:58:17.736   -- File entry --
+2020-11-04 22:58:17.736   Dest filename: C:\Program Files\My App\runner.exe
+2020-11-04 22:58:17.736   Time stamp of our file: 2020-10-08 14:41:22.000
+2020-11-04 22:58:17.736   Installing the file.
+2020-11-04 22:58:18.473   Successfully installed the file.
+2020-11-04 22:58:18.474   -- File entry --
+2020-11-04 22:58:18.474   Dest filename: C:\Program Files\My App\assets\versionInfo.json
+2020-11-04 22:58:18.474   Time stamp of our file: 2020-11-03 18:07:48.000
+2020-11-04 22:58:18.474   Installing the file.
+2020-11-04 22:58:18.474   Creating directory: C:\Program Files\My App\assets
+2020-11-04 22:58:18.479   Successfully installed the file.
+2020-11-04 22:58:18.480   -- File entry --
+2020-11-04 22:58:18.480   Dest filename: C:\Program Files\My App\assets\app\dist\config.json
+2020-11-04 22:58:18.480   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.480   Installing the file.
+2020-11-04 22:58:18.480   Creating directory: C:\Program Files\My App\assets\app
+2020-11-04 22:58:18.481   Creating directory: C:\Program Files\My App\assets\app\dist
+2020-11-04 22:58:18.485   Successfully installed the file.
+2020-11-04 22:58:18.485   -- File entry --
+2020-11-04 22:58:18.485   Dest filename: C:\Program Files\My App\assets\app\dist\connection-settings.json
+2020-11-04 22:58:18.486   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.486   Installing the file.
+2020-11-04 22:58:18.490   Successfully installed the file.
+2020-11-04 22:58:18.490   -- File entry --
+2020-11-04 22:58:18.491   Dest filename: C:\Program Files\My App\assets\app\dist\crossdomain.xml
+2020-11-04 22:58:18.491   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.491   Installing the file.
+2020-11-04 22:58:18.496   Successfully installed the file.
+2020-11-04 22:58:18.496   -- File entry --
+2020-11-04 22:58:18.497   Dest filename: C:\Program Files\My App\assets\app\dist\index.html
+2020-11-04 22:58:18.497   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.497   Installing the file.
+2020-11-04 22:58:18.502   Successfully installed the file.
+2020-11-04 22:58:18.503   -- File entry --
+2020-11-04 22:58:18.503   Dest filename: C:\Program Files\My App\assets\app\dist\robots.txt
+2020-11-04 22:58:18.503   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.503   Installing the file.
+2020-11-04 22:58:18.508   Successfully installed the file.
+2020-11-04 22:58:18.508   -- File entry --
+2020-11-04 22:58:18.508   Dest filename: C:\Program Files\My App\assets\app\dist\assets\post-lib-1604404216800.js
+2020-11-04 22:58:18.509   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.509   Installing the file.
+2020-11-04 22:58:18.509   Creating directory: C:\Program Files\My App\assets\app\dist\assets
+2020-11-04 22:58:18.566   Successfully installed the file.
+2020-11-04 22:58:18.566   -- File entry --
+2020-11-04 22:58:18.566   Dest filename: C:\Program Files\My App\assets\app\dist\assets\pre-lib-1604404216800.js
+2020-11-04 22:58:18.567   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.567   Installing the file.
+2020-11-04 22:58:18.582   Successfully installed the file.
+2020-11-04 22:58:18.583   -- File entry --
+2020-11-04 22:58:18.583   Dest filename: C:\Program Files\My App\assets\app\dist\assets\universal-app-1604404216800.css
+2020-11-04 22:58:18.583   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.583   Installing the file.
+2020-11-04 22:58:18.601   Successfully installed the file.
+2020-11-04 22:58:18.602   -- File entry --
+2020-11-04 22:58:18.602   Dest filename: C:\Program Files\My App\assets\app\dist\assets\universal-app-1604404216800.js
+2020-11-04 22:58:18.602   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.602   Installing the file.
+2020-11-04 22:58:18.662   Successfully installed the file.
+2020-11-04 22:58:18.662   -- File entry --
+2020-11-04 22:58:18.663   Dest filename: C:\Program Files\My App\assets\app\dist\assets\user-agreement.html
+2020-11-04 22:58:18.663   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.663   Installing the file.
+2020-11-04 22:58:18.668   Successfully installed the file.
+2020-11-04 22:58:18.668   -- File entry --
+2020-11-04 22:58:18.668   Dest filename: C:\Program Files\My App\assets\app\dist\assets\vendor-1604404216800.css
+2020-11-04 22:58:18.668   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.668   Installing the file.
+2020-11-04 22:58:18.674   Successfully installed the file.
+2020-11-04 22:58:18.675   -- File entry --
+2020-11-04 22:58:18.677   Dest filename: C:\Program Files\My App\assets\app\dist\assets\vendor-1604404216800.js
+2020-11-04 22:58:18.677   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.677   Installing the file.
+2020-11-04 22:58:18.729   Successfully installed the file.
+2020-11-04 22:58:18.729   -- File entry --
+2020-11-04 22:58:18.730   Dest filename: C:\Program Files\My App\assets\app\dist\assets\world.json
+2020-11-04 22:58:18.730   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.730   Installing the file.
+2020-11-04 22:58:18.750   Successfully installed the file.
+2020-11-04 22:58:18.751   -- File entry --
+2020-11-04 22:58:18.751   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\codemirror.min-1604404216800.js
+2020-11-04 22:58:18.751   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.751   Installing the file.
+2020-11-04 22:58:18.751   Creating directory: C:\Program Files\My App\assets\app\dist\assets\addons
+2020-11-04 22:58:18.761   Successfully installed the file.
+2020-11-04 22:58:18.761   -- File entry --
+2020-11-04 22:58:18.762   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\finbars.min-1604404216800.js
+2020-11-04 22:58:18.762   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.762   Installing the file.
+2020-11-04 22:58:18.767   Successfully installed the file.
+2020-11-04 22:58:18.767   -- File entry --
+2020-11-04 22:58:18.767   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\pixi.min-1604404216800.js
+2020-11-04 22:58:18.767   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.768   Installing the file.
+2020-11-04 22:58:18.781   Successfully installed the file.
+2020-11-04 22:58:18.781   -- File entry --
+2020-11-04 22:58:18.782   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\ua-chart-1604404216800.js
+2020-11-04 22:58:18.782   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.782   Installing the file.
+2020-11-04 22:58:18.801   Successfully installed the file.
+2020-11-04 22:58:18.801   -- File entry --
+2020-11-04 22:58:18.802   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\ua-price-1604404216800.js
+2020-11-04 22:58:18.802   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.802   Installing the file.
+2020-11-04 22:58:18.829   Successfully installed the file.
+2020-11-04 22:58:18.830   -- File entry --
+2020-11-04 22:58:18.830   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\ua-trade-1604404216800.js
+2020-11-04 22:58:18.830   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.830   Installing the file.
+2020-11-04 22:58:18.854   Successfully installed the file.
+2020-11-04 22:58:18.854   -- File entry --
+2020-11-04 22:58:18.855   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\ua-widgets-1604404216800.js
+2020-11-04 22:58:18.855   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.855   Installing the file.
+2020-11-04 22:58:18.872   Successfully installed the file.
+2020-11-04 22:58:18.872   -- File entry --
+2020-11-04 22:58:18.872   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\web-workers\base64-to-canvas-1604404216800.js
+2020-11-04 22:58:18.872   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.872   Installing the file.
+2020-11-04 22:58:18.872   Creating directory: C:\Program Files\My App\assets\app\dist\assets\addons\web-workers
+2020-11-04 22:58:18.878   Successfully installed the file.
+2020-11-04 22:58:18.878   -- File entry --
+2020-11-04 22:58:18.878   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\web-workers\calculator-1604404216800.js
+2020-11-04 22:58:18.878   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.879   Installing the file.
+2020-11-04 22:58:18.883   Successfully installed the file.
+2020-11-04 22:58:18.884   -- File entry --
+2020-11-04 22:58:18.884   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\web-workers\function-base-1604404216800.js
+2020-11-04 22:58:18.884   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.884   Installing the file.
+2020-11-04 22:58:18.890   Successfully installed the file.
+2020-11-04 22:58:18.890   -- File entry --
+2020-11-04 22:58:18.890   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\web-workers\verify-script-1604404216800.js
+2020-11-04 22:58:18.891   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.891   Installing the file.
+2020-11-04 22:58:18.895   Successfully installed the file.
+2020-11-04 22:58:18.896   -- File entry --
+2020-11-04 22:58:18.896   Dest filename: C:\Program Files\My App\assets\app\dist\assets\addons\web-workers\wl-calculator-1604404216800.js
+2020-11-04 22:58:18.896   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.896   Installing the file.
+2020-11-04 22:58:18.901   Successfully installed the file.
+2020-11-04 22:58:18.901   -- File entry --
+2020-11-04 22:58:18.901   Dest filename: C:\Program Files\My App\assets\app\dist\assets\css\canvas-styles-1604404216800.css
+2020-11-04 22:58:18.902   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.902   Installing the file.
+2020-11-04 22:58:18.902   Creating directory: C:\Program Files\My App\assets\app\dist\assets\css
+2020-11-04 22:58:18.906   Successfully installed the file.
+2020-11-04 22:58:18.907   -- File entry --
+2020-11-04 22:58:18.907   Dest filename: C:\Program Files\My App\assets\app\dist\assets\css\chart-1604404216800.css
+2020-11-04 22:58:18.907   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.907   Installing the file.
+2020-11-04 22:58:18.912   Successfully installed the file.
+2020-11-04 22:58:18.912   -- File entry --
+2020-11-04 22:58:18.913   Dest filename: C:\Program Files\My App\assets\app\dist\assets\css\codemirror-1604404216800.css
+2020-11-04 22:58:18.913   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.913   Installing the file.
+2020-11-04 22:58:18.918   Successfully installed the file.
+2020-11-04 22:58:18.918   -- File entry --
+2020-11-04 22:58:18.919   Dest filename: C:\Program Files\My App\assets\app\dist\assets\css\reset-1604404216800.css
+2020-11-04 22:58:18.919   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.919   Installing the file.
+2020-11-04 22:58:18.923   Successfully installed the file.
+2020-11-04 22:58:18.924   -- File entry --
+2020-11-04 22:58:18.924   Dest filename: C:\Program Files\My App\assets\app\dist\assets\css\stx-chart-1604404216800.css
+2020-11-04 22:58:18.924   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.924   Installing the file.
+2020-11-04 22:58:18.930   Successfully installed the file.
+2020-11-04 22:58:18.930   -- File entry --
+2020-11-04 22:58:18.930   Dest filename: C:\Program Files\My App\assets\app\dist\assets\css\stx-print-1604404216800.css
+2020-11-04 22:58:18.931   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.931   Installing the file.
+2020-11-04 22:58:18.935   Successfully installed the file.
+2020-11-04 22:58:18.935   -- File entry --
+2020-11-04 22:58:18.936   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\css\font-awesome-1604404216800.css
+2020-11-04 22:58:18.936   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.936   Installing the file.
+2020-11-04 22:58:18.936   Creating directory: C:\Program Files\My App\assets\app\dist\assets\font-awesome
+2020-11-04 22:58:18.936   Creating directory: C:\Program Files\My App\assets\app\dist\assets\font-awesome\css
+2020-11-04 22:58:18.942   Successfully installed the file.
+2020-11-04 22:58:18.942   -- File entry --
+2020-11-04 22:58:18.942   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\css\font-awesome.min-1604404216800.css
+2020-11-04 22:58:18.943   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.943   Installing the file.
+2020-11-04 22:58:18.948   Successfully installed the file.
+2020-11-04 22:58:18.948   -- File entry --
+2020-11-04 22:58:18.949   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\fonts\fontawesome-webfont.eot
+2020-11-04 22:58:18.949   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.949   Installing the file.
+2020-11-04 22:58:18.949   Creating directory: C:\Program Files\My App\assets\app\dist\assets\font-awesome\fonts
+2020-11-04 22:58:18.958   Successfully installed the file.
+2020-11-04 22:58:18.959   -- File entry --
+2020-11-04 22:58:18.960   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\fonts\fontawesome-webfont.svg
+2020-11-04 22:58:18.960   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.960   Installing the file.
+2020-11-04 22:58:18.973   Successfully installed the file.
+2020-11-04 22:58:18.974   -- File entry --
+2020-11-04 22:58:18.975   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\fonts\fontawesome-webfont.ttf
+2020-11-04 22:58:18.975   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.975   Installing the file.
+2020-11-04 22:58:18.986   Successfully installed the file.
+2020-11-04 22:58:18.986   -- File entry --
+2020-11-04 22:58:18.987   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\fonts\fontawesome-webfont.woff
+2020-11-04 22:58:18.987   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.987   Installing the file.
+2020-11-04 22:58:18.997   Successfully installed the file.
+2020-11-04 22:58:18.997   -- File entry --
+2020-11-04 22:58:18.998   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\fonts\fontawesome-webfont.woff2
+2020-11-04 22:58:18.998   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:18.998   Installing the file.
+2020-11-04 22:58:19.006   Successfully installed the file.
+2020-11-04 22:58:19.006   -- File entry --
+2020-11-04 22:58:19.007   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\fonts\FontAwesome.otf
+2020-11-04 22:58:19.007   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.007   Installing the file.
+2020-11-04 22:58:19.018   Successfully installed the file.
+2020-11-04 22:58:19.018   -- File entry --
+2020-11-04 22:58:19.018   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\animated.less
+2020-11-04 22:58:19.019   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.019   Installing the file.
+2020-11-04 22:58:19.019   Creating directory: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less
+2020-11-04 22:58:19.024   Successfully installed the file.
+2020-11-04 22:58:19.024   -- File entry --
+2020-11-04 22:58:19.025   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\bordered-pulled.less
+2020-11-04 22:58:19.025   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.025   Installing the file.
+2020-11-04 22:58:19.030   Successfully installed the file.
+2020-11-04 22:58:19.030   -- File entry --
+2020-11-04 22:58:19.030   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\core.less
+2020-11-04 22:58:19.030   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.030   Installing the file.
+2020-11-04 22:58:19.035   Successfully installed the file.
+2020-11-04 22:58:19.035   -- File entry --
+2020-11-04 22:58:19.036   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\fixed-width.less
+2020-11-04 22:58:19.036   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.036   Installing the file.
+2020-11-04 22:58:19.041   Successfully installed the file.
+2020-11-04 22:58:19.041   -- File entry --
+2020-11-04 22:58:19.041   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\font-awesome.less
+2020-11-04 22:58:19.042   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.042   Installing the file.
+2020-11-04 22:58:19.046   Successfully installed the file.
+2020-11-04 22:58:19.046   -- File entry --
+2020-11-04 22:58:19.046   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\icons.less
+2020-11-04 22:58:19.046   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.046   Installing the file.
+2020-11-04 22:58:19.051   Successfully installed the file.
+2020-11-04 22:58:19.051   -- File entry --
+2020-11-04 22:58:19.052   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\larger.less
+2020-11-04 22:58:19.052   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.052   Installing the file.
+2020-11-04 22:58:19.057   Successfully installed the file.
+2020-11-04 22:58:19.057   -- File entry --
+2020-11-04 22:58:19.058   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\list.less
+2020-11-04 22:58:19.058   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.058   Installing the file.
+2020-11-04 22:58:19.063   Successfully installed the file.
+2020-11-04 22:58:19.063   -- File entry --
+2020-11-04 22:58:19.064   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\mixins.less
+2020-11-04 22:58:19.064   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.064   Installing the file.
+2020-11-04 22:58:19.069   Successfully installed the file.
+2020-11-04 22:58:19.070   -- File entry --
+2020-11-04 22:58:19.071   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\path.less
+2020-11-04 22:58:19.071   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.071   Installing the file.
+2020-11-04 22:58:19.076   Successfully installed the file.
+2020-11-04 22:58:19.076   -- File entry --
+2020-11-04 22:58:19.077   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\rotated-flipped.less
+2020-11-04 22:58:19.077   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.077   Installing the file.
+2020-11-04 22:58:19.085   Successfully installed the file.
+2020-11-04 22:58:19.085   -- File entry --
+2020-11-04 22:58:19.085   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\stacked.less
+2020-11-04 22:58:19.085   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.085   Installing the file.
+2020-11-04 22:58:19.090   Successfully installed the file.
+2020-11-04 22:58:19.090   -- File entry --
+2020-11-04 22:58:19.091   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\less\variables.less
+2020-11-04 22:58:19.091   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.091   Installing the file.
+2020-11-04 22:58:19.099   Successfully installed the file.
+2020-11-04 22:58:19.099   -- File entry --
+2020-11-04 22:58:19.099   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\font-awesome.scss
+2020-11-04 22:58:19.100   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.100   Installing the file.
+2020-11-04 22:58:19.100   Creating directory: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss
+2020-11-04 22:58:19.106   Successfully installed the file.
+2020-11-04 22:58:19.106   -- File entry --
+2020-11-04 22:58:19.107   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_animated.scss
+2020-11-04 22:58:19.107   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.107   Installing the file.
+2020-11-04 22:58:19.113   Successfully installed the file.
+2020-11-04 22:58:19.114   -- File entry --
+2020-11-04 22:58:19.114   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_bordered-pulled.scss
+2020-11-04 22:58:19.114   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.114   Installing the file.
+2020-11-04 22:58:19.120   Successfully installed the file.
+2020-11-04 22:58:19.120   -- File entry --
+2020-11-04 22:58:19.121   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_core.scss
+2020-11-04 22:58:19.121   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.121   Installing the file.
+2020-11-04 22:58:19.126   Successfully installed the file.
+2020-11-04 22:58:19.126   -- File entry --
+2020-11-04 22:58:19.126   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_fixed-width.scss
+2020-11-04 22:58:19.127   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.127   Installing the file.
+2020-11-04 22:58:19.132   Successfully installed the file.
+2020-11-04 22:58:19.132   -- File entry --
+2020-11-04 22:58:19.133   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_icons.scss
+2020-11-04 22:58:19.133   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.133   Installing the file.
+2020-11-04 22:58:19.139   Successfully installed the file.
+2020-11-04 22:58:19.139   -- File entry --
+2020-11-04 22:58:19.140   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_larger.scss
+2020-11-04 22:58:19.140   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.140   Installing the file.
+2020-11-04 22:58:19.145   Successfully installed the file.
+2020-11-04 22:58:19.146   -- File entry --
+2020-11-04 22:58:19.146   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_list.scss
+2020-11-04 22:58:19.146   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.146   Installing the file.
+2020-11-04 22:58:19.151   Successfully installed the file.
+2020-11-04 22:58:19.151   -- File entry --
+2020-11-04 22:58:19.151   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_mixins.scss
+2020-11-04 22:58:19.151   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.151   Installing the file.
+2020-11-04 22:58:19.156   Successfully installed the file.
+2020-11-04 22:58:19.156   -- File entry --
+2020-11-04 22:58:19.157   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_path.scss
+2020-11-04 22:58:19.157   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.157   Installing the file.
+2020-11-04 22:58:19.163   Successfully installed the file.
+2020-11-04 22:58:19.163   -- File entry --
+2020-11-04 22:58:19.163   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_rotated-flipped.scss
+2020-11-04 22:58:19.164   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.164   Installing the file.
+2020-11-04 22:58:19.169   Successfully installed the file.
+2020-11-04 22:58:19.169   -- File entry --
+2020-11-04 22:58:19.170   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_stacked.scss
+2020-11-04 22:58:19.170   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.170   Installing the file.
+2020-11-04 22:58:19.175   Successfully installed the file.
+2020-11-04 22:58:19.175   -- File entry --
+2020-11-04 22:58:19.176   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-awesome\scss\_variables.scss
+2020-11-04 22:58:19.176   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.176   Installing the file.
+2020-11-04 22:58:19.182   Successfully installed the file.
+2020-11-04 22:58:19.182   -- File entry --
+2020-11-04 22:58:19.183   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-DFN-v1\css\font-DFN-v1-1604404216800.css
+2020-11-04 22:58:19.183   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.183   Installing the file.
+2020-11-04 22:58:19.183   Creating directory: C:\Program Files\My App\assets\app\dist\assets\font-DFN-v1
+2020-11-04 22:58:19.184   Creating directory: C:\Program Files\My App\assets\app\dist\assets\font-DFN-v1\css
+2020-11-04 22:58:19.190   Successfully installed the file.
+2020-11-04 22:58:19.190   -- File entry --
+2020-11-04 22:58:19.191   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-DFN-v1\fonts\html5-v1.eot
+2020-11-04 22:58:19.191   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.191   Installing the file.
+2020-11-04 22:58:19.191   Creating directory: C:\Program Files\My App\assets\app\dist\assets\font-DFN-v1\fonts
+2020-11-04 22:58:19.200   Successfully installed the file.
+2020-11-04 22:58:19.200   -- File entry --
+2020-11-04 22:58:19.201   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-DFN-v1\fonts\html5-v1.svg
+2020-11-04 22:58:19.201   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.201   Installing the file.
+2020-11-04 22:58:19.213   Successfully installed the file.
+2020-11-04 22:58:19.213   -- File entry --
+2020-11-04 22:58:19.213   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-DFN-v1\fonts\html5-v1.ttf
+2020-11-04 22:58:19.214   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.214   Installing the file.
+2020-11-04 22:58:19.220   Successfully installed the file.
+2020-11-04 22:58:19.220   -- File entry --
+2020-11-04 22:58:19.221   Dest filename: C:\Program Files\My App\assets\app\dist\assets\font-DFN-v1\fonts\html5-v1.woff
+2020-11-04 22:58:19.221   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.221   Installing the file.
+2020-11-04 22:58:19.230   Successfully installed the file.
+2020-11-04 22:58:19.230   -- File entry --
+2020-11-04 22:58:19.231   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\arial.ttf
+2020-11-04 22:58:19.231   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.231   Installing the file.
+2020-11-04 22:58:19.231   Creating directory: C:\Program Files\My App\assets\app\dist\assets\fonts
+2020-11-04 22:58:19.248   Successfully installed the file.
+2020-11-04 22:58:19.248   -- File entry --
+2020-11-04 22:58:19.249   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\BNazanin.ttf
+2020-11-04 22:58:19.249   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.249   Installing the file.
+2020-11-04 22:58:19.255   Successfully installed the file.
+2020-11-04 22:58:19.255   -- File entry --
+2020-11-04 22:58:19.256   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\charticon.eot
+2020-11-04 22:58:19.256   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.256   Installing the file.
+2020-11-04 22:58:19.262   Successfully installed the file.
+2020-11-04 22:58:19.262   -- File entry --
+2020-11-04 22:58:19.262   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\charticon.svg
+2020-11-04 22:58:19.263   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.263   Installing the file.
+2020-11-04 22:58:19.267   Successfully installed the file.
+2020-11-04 22:58:19.268   -- File entry --
+2020-11-04 22:58:19.268   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\charticon.ttf
+2020-11-04 22:58:19.269   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.269   Installing the file.
+2020-11-04 22:58:19.273   Successfully installed the file.
+2020-11-04 22:58:19.274   -- File entry --
+2020-11-04 22:58:19.274   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\charticon.woff
+2020-11-04 22:58:19.274   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.274   Installing the file.
+2020-11-04 22:58:19.279   Successfully installed the file.
+2020-11-04 22:58:19.279   -- File entry --
+2020-11-04 22:58:19.280   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\glyphicons-halflings-regular.eot
+2020-11-04 22:58:19.280   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.280   Installing the file.
+2020-11-04 22:58:19.286   Successfully installed the file.
+2020-11-04 22:58:19.287   -- File entry --
+2020-11-04 22:58:19.287   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\glyphicons-halflings-regular.svg
+2020-11-04 22:58:19.287   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.287   Installing the file.
+2020-11-04 22:58:19.294   Successfully installed the file.
+2020-11-04 22:58:19.294   -- File entry --
+2020-11-04 22:58:19.295   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\glyphicons-halflings-regular.ttf
+2020-11-04 22:58:19.295   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.295   Installing the file.
+2020-11-04 22:58:19.301   Successfully installed the file.
+2020-11-04 22:58:19.301   -- File entry --
+2020-11-04 22:58:19.302   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\glyphicons-halflings-regular.woff
+2020-11-04 22:58:19.302   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.302   Installing the file.
+2020-11-04 22:58:19.308   Successfully installed the file.
+2020-11-04 22:58:19.309   -- File entry --
+2020-11-04 22:58:19.309   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\glyphicons-halflings-regular.woff2
+2020-11-04 22:58:19.309   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.309   Installing the file.
+2020-11-04 22:58:19.315   Successfully installed the file.
+2020-11-04 22:58:19.316   -- File entry --
+2020-11-04 22:58:19.316   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\html5-v1.eot
+2020-11-04 22:58:19.316   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.316   Installing the file.
+2020-11-04 22:58:19.321   Successfully installed the file.
+2020-11-04 22:58:19.322   -- File entry --
+2020-11-04 22:58:19.322   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\html5-v1.svg
+2020-11-04 22:58:19.323   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.323   Installing the file.
+2020-11-04 22:58:19.330   Successfully installed the file.
+2020-11-04 22:58:19.330   -- File entry --
+2020-11-04 22:58:19.331   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\html5-v1.ttf
+2020-11-04 22:58:19.331   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.331   Installing the file.
+2020-11-04 22:58:19.337   Successfully installed the file.
+2020-11-04 22:58:19.337   -- File entry --
+2020-11-04 22:58:19.338   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\html5-v1.woff
+2020-11-04 22:58:19.338   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.338   Installing the file.
+2020-11-04 22:58:19.344   Successfully installed the file.
+2020-11-04 22:58:19.344   -- File entry --
+2020-11-04 22:58:19.345   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\html5-v2.eot
+2020-11-04 22:58:19.345   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.345   Installing the file.
+2020-11-04 22:58:19.350   Successfully installed the file.
+2020-11-04 22:58:19.350   -- File entry --
+2020-11-04 22:58:19.350   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\html5-v2.svg
+2020-11-04 22:58:19.350   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.350   Installing the file.
+2020-11-04 22:58:19.355   Successfully installed the file.
+2020-11-04 22:58:19.356   -- File entry --
+2020-11-04 22:58:19.356   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\html5-v2.ttf
+2020-11-04 22:58:19.356   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.356   Installing the file.
+2020-11-04 22:58:19.361   Successfully installed the file.
+2020-11-04 22:58:19.361   -- File entry --
+2020-11-04 22:58:19.361   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\html5-v2.woff
+2020-11-04 22:58:19.362   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.362   Installing the file.
+2020-11-04 22:58:19.366   Successfully installed the file.
+2020-11-04 22:58:19.366   -- File entry --
+2020-11-04 22:58:19.367   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\OpenSans-Regular.ttf
+2020-11-04 22:58:19.367   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.367   Installing the file.
+2020-11-04 22:58:19.379   Successfully installed the file.
+2020-11-04 22:58:19.379   -- File entry --
+2020-11-04 22:58:19.379   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\universal-icons.eot
+2020-11-04 22:58:19.379   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.379   Installing the file.
+2020-11-04 22:58:19.385   Successfully installed the file.
+2020-11-04 22:58:19.386   -- File entry --
+2020-11-04 22:58:19.386   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\universal-icons.svg
+2020-11-04 22:58:19.386   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.386   Installing the file.
+2020-11-04 22:58:19.393   Successfully installed the file.
+2020-11-04 22:58:19.393   -- File entry --
+2020-11-04 22:58:19.393   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\universal-icons.ttf
+2020-11-04 22:58:19.394   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.394   Installing the file.
+2020-11-04 22:58:19.399   Successfully installed the file.
+2020-11-04 22:58:19.399   -- File entry --
+2020-11-04 22:58:19.399   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\universal-icons.woff
+2020-11-04 22:58:19.400   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.400   Installing the file.
+2020-11-04 22:58:19.406   Successfully installed the file.
+2020-11-04 22:58:19.407   -- File entry --
+2020-11-04 22:58:19.407   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\untitled-font-6.eot
+2020-11-04 22:58:19.407   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.407   Installing the file.
+2020-11-04 22:58:19.416   Successfully installed the file.
+2020-11-04 22:58:19.416   -- File entry --
+2020-11-04 22:58:19.417   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\untitled-font-6.svg
+2020-11-04 22:58:19.417   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.417   Installing the file.
+2020-11-04 22:58:19.430   Successfully installed the file.
+2020-11-04 22:58:19.431   -- File entry --
+2020-11-04 22:58:19.431   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\untitled-font-6.ttf
+2020-11-04 22:58:19.432   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.432   Installing the file.
+2020-11-04 22:58:19.437   Successfully installed the file.
+2020-11-04 22:58:19.438   -- File entry --
+2020-11-04 22:58:19.438   Dest filename: C:\Program Files\My App\assets\app\dist\assets\fonts\untitled-font-6.woff
+2020-11-04 22:58:19.438   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.438   Installing the file.
+2020-11-04 22:58:19.450   Successfully installed the file.
+2020-11-04 22:58:19.450   -- File entry --
+2020-11-04 22:58:19.451   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\black-1604404216800.png
+2020-11-04 22:58:19.451   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.451   Installing the file.
+2020-11-04 22:58:19.451   Creating directory: C:\Program Files\My App\assets\app\dist\assets\images
+2020-11-04 22:58:19.456   Successfully installed the file.
+2020-11-04 22:58:19.456   -- File entry --
+2020-11-04 22:58:19.457   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\flags-1604404216800.png
+2020-11-04 22:58:19.457   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.457   Installing the file.
+2020-11-04 22:58:19.479   Successfully installed the file.
+2020-11-04 22:58:19.479   -- File entry --
+2020-11-04 22:58:19.480   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\loading-1604404216800.gif
+2020-11-04 22:58:19.480   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.480   Installing the file.
+2020-11-04 22:58:19.509   Successfully installed the file.
+2020-11-04 22:58:19.510   -- File entry --
+2020-11-04 22:58:19.512   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\eraser-cursor-1604404216800.png
+2020-11-04 22:58:19.512   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.512   Installing the file.
+2020-11-04 22:58:19.512   Creating directory: C:\Program Files\My App\assets\app\dist\assets\images\chart
+2020-11-04 22:58:19.518   Successfully installed the file.
+2020-11-04 22:58:19.519   -- File entry --
+2020-11-04 22:58:19.520   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\event-type-A-1604404216800.png
+2020-11-04 22:58:19.520   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.520   Installing the file.
+2020-11-04 22:58:19.525   Successfully installed the file.
+2020-11-04 22:58:19.526   -- File entry --
+2020-11-04 22:58:19.527   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\event-type-CA-1604404216800.png
+2020-11-04 22:58:19.527   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.527   Installing the file.
+2020-11-04 22:58:19.533   Successfully installed the file.
+2020-11-04 22:58:19.533   -- File entry --
+2020-11-04 22:58:19.534   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\event-type-CD-1604404216800.png
+2020-11-04 22:58:19.534   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.534   Installing the file.
+2020-11-04 22:58:19.539   Successfully installed the file.
+2020-11-04 22:58:19.540   -- File entry --
+2020-11-04 22:58:19.542   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\event-type-CR-1604404216800.png
+2020-11-04 22:58:19.543   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.543   Installing the file.
+2020-11-04 22:58:19.548   Successfully installed the file.
+2020-11-04 22:58:19.549   -- File entry --
+2020-11-04 22:58:19.550   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\event-type-RB-1604404216800.png
+2020-11-04 22:58:19.550   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.550   Installing the file.
+2020-11-04 22:58:19.554   Successfully installed the file.
+2020-11-04 22:58:19.555   -- File entry --
+2020-11-04 22:58:19.556   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\event-type-RI-1604404216800.png
+2020-11-04 22:58:19.556   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.556   Installing the file.
+2020-11-04 22:58:19.562   Successfully installed the file.
+2020-11-04 22:58:19.562   -- File entry --
+2020-11-04 22:58:19.563   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\event-type-SD-1604404216800.png
+2020-11-04 22:58:19.563   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.563   Installing the file.
+2020-11-04 22:58:19.568   Successfully installed the file.
+2020-11-04 22:58:19.568   -- File entry --
+2020-11-04 22:58:19.569   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\multiplier-1B-1604404216800.png
+2020-11-04 22:58:19.569   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.569   Installing the file.
+2020-11-04 22:58:19.574   Successfully installed the file.
+2020-11-04 22:58:19.574   -- File entry --
+2020-11-04 22:58:19.575   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\multiplier-1K-1604404216800.png
+2020-11-04 22:58:19.575   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.575   Installing the file.
+2020-11-04 22:58:19.580   Successfully installed the file.
+2020-11-04 22:58:19.581   -- File entry --
+2020-11-04 22:58:19.581   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\multiplier-1M-1604404216800.png
+2020-11-04 22:58:19.581   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.581   Installing the file.
+2020-11-04 22:58:19.586   Successfully installed the file.
+2020-11-04 22:58:19.586   -- File entry --
+2020-11-04 22:58:19.587   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\sprite-panels-1604404216800.png
+2020-11-04 22:58:19.587   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.587   Installing the file.
+2020-11-04 22:58:19.592   Successfully installed the file.
+2020-11-04 22:58:19.592   -- File entry --
+2020-11-04 22:58:19.593   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chart\sprite-panels.svg
+2020-11-04 22:58:19.593   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.593   Installing the file.
+2020-11-04 22:58:19.598   Successfully installed the file.
+2020-11-04 22:58:19.599   -- File entry --
+2020-11-04 22:58:19.599   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\chart_watermark-1604404216800.png
+2020-11-04 22:58:19.599   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.599   Installing the file.
+2020-11-04 22:58:19.599   Creating directory: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ
+2020-11-04 22:58:19.604   Successfully installed the file.
+2020-11-04 22:58:19.604   -- File entry --
+2020-11-04 22:58:19.605   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\hu.svg
+2020-11-04 22:58:19.605   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.605   Installing the file.
+2020-11-04 22:58:19.610   Successfully installed the file.
+2020-11-04 22:58:19.611   -- File entry --
+2020-11-04 22:58:19.611   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\loading-spin-white.svg
+2020-11-04 22:58:19.611   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.611   Installing the file.
+2020-11-04 22:58:19.616   Successfully installed the file.
+2020-11-04 22:58:19.616   -- File entry --
+2020-11-04 22:58:19.617   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\loading-spin.svg
+2020-11-04 22:58:19.617   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.617   Installing the file.
+2020-11-04 22:58:19.622   Successfully installed the file.
+2020-11-04 22:58:19.622   -- File entry --
+2020-11-04 22:58:19.622   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\stx-loading-1604404216800.gif
+2020-11-04 22:58:19.623   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.623   Installing the file.
+2020-11-04 22:58:19.628   Successfully installed the file.
+2020-11-04 22:58:19.628   -- File entry --
+2020-11-04 22:58:19.628   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\stx-sprite-1604404216800.png
+2020-11-04 22:58:19.628   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.628   Installing the file.
+2020-11-04 22:58:19.634   Successfully installed the file.
+2020-11-04 22:58:19.635   -- File entry --
+2020-11-04 22:58:19.635   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\stx-sprite-panels-1604404216800.png
+2020-11-04 22:58:19.635   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.635   Installing the file.
+2020-11-04 22:58:19.640   Successfully installed the file.
+2020-11-04 22:58:19.640   -- File entry --
+2020-11-04 22:58:19.641   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\stx-sprite-panels.svg
+2020-11-04 22:58:19.641   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.641   Installing the file.
+2020-11-04 22:58:19.646   Successfully installed the file.
+2020-11-04 22:58:19.646   -- File entry --
+2020-11-04 22:58:19.647   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\stx-sprite-phone-1604404216800.png
+2020-11-04 22:58:19.647   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.647   Installing the file.
+2020-11-04 22:58:19.652   Successfully installed the file.
+2020-11-04 22:58:19.653   -- File entry --
+2020-11-04 22:58:19.654   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\stx-sprite-phone@2x-1604404216800.png
+2020-11-04 22:58:19.655   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.655   Installing the file.
+2020-11-04 22:58:19.661   Successfully installed the file.
+2020-11-04 22:58:19.662   -- File entry --
+2020-11-04 22:58:19.662   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\chartIQ\stx-sprite-ui.svg
+2020-11-04 22:58:19.662   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.662   Installing the file.
+2020-11-04 22:58:19.668   Successfully installed the file.
+2020-11-04 22:58:19.668   -- File entry --
+2020-11-04 22:58:19.669   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\table\eye-1604404216800.png
+2020-11-04 22:58:19.669   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.669   Installing the file.
+2020-11-04 22:58:19.669   Creating directory: C:\Program Files\My App\assets\app\dist\assets\images\table
+2020-11-04 22:58:19.674   Successfully installed the file.
+2020-11-04 22:58:19.674   -- File entry --
+2020-11-04 22:58:19.675   Dest filename: C:\Program Files\My App\assets\app\dist\assets\images\table\more-1604404216800.png
+2020-11-04 22:58:19.675   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.675   Installing the file.
+2020-11-04 22:58:19.680   Successfully installed the file.
+2020-11-04 22:58:19.680   -- File entry --
+2020-11-04 22:58:19.680   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\3_dots-1604404216800.png
+2020-11-04 22:58:19.681   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.681   Installing the file.
+2020-11-04 22:58:19.681   Creating directory: C:\Program Files\My App\assets\app\dist\assets\img
+2020-11-04 22:58:19.686   Successfully installed the file.
+2020-11-04 22:58:19.686   -- File entry --
+2020-11-04 22:58:19.686   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\about-us-logo-1604404216800.png
+2020-11-04 22:58:19.686   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.686   Installing the file.
+2020-11-04 22:58:19.692   Successfully installed the file.
+2020-11-04 22:58:19.692   -- File entry --
+2020-11-04 22:58:19.693   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\background-1604404216800.png
+2020-11-04 22:58:19.693   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.693   Installing the file.
+2020-11-04 22:58:19.767   Successfully installed the file.
+2020-11-04 22:58:19.767   -- File entry --
+2020-11-04 22:58:19.768   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\brand-logo-1604404216800.png
+2020-11-04 22:58:19.768   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.768   Installing the file.
+2020-11-04 22:58:19.773   Successfully installed the file.
+2020-11-04 22:58:19.774   -- File entry --
+2020-11-04 22:58:19.775   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\cart_icon-1604404216800.png
+2020-11-04 22:58:19.775   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.775   Installing the file.
+2020-11-04 22:58:19.781   Successfully installed the file.
+2020-11-04 22:58:19.781   -- File entry --
+2020-11-04 22:58:19.781   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\chart_up_icn-1604404216800.png
+2020-11-04 22:58:19.781   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.781   Installing the file.
+2020-11-04 22:58:19.786   Successfully installed the file.
+2020-11-04 22:58:19.786   -- File entry --
+2020-11-04 22:58:19.786   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\close_icn-1604404216800.png
+2020-11-04 22:58:19.786   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.787   Installing the file.
+2020-11-04 22:58:19.792   Successfully installed the file.
+2020-11-04 22:58:19.792   -- File entry --
+2020-11-04 22:58:19.793   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\error-msg-background-1604404216800.png
+2020-11-04 22:58:19.793   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.793   Installing the file.
+2020-11-04 22:58:19.798   Successfully installed the file.
+2020-11-04 22:58:19.799   -- File entry --
+2020-11-04 22:58:19.799   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\favcon-1604404216800.png
+2020-11-04 22:58:19.799   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.799   Installing the file.
+2020-11-04 22:58:19.804   Successfully installed the file.
+2020-11-04 22:58:19.805   -- File entry --
+2020-11-04 22:58:19.805   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\favcon.ico
+2020-11-04 22:58:19.805   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.805   Installing the file.
+2020-11-04 22:58:19.811   Successfully installed the file.
+2020-11-04 22:58:19.811   -- File entry --
+2020-11-04 22:58:19.812   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\favcon1.ico
+2020-11-04 22:58:19.812   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.812   Installing the file.
+2020-11-04 22:58:19.817   Successfully installed the file.
+2020-11-04 22:58:19.817   -- File entry --
+2020-11-04 22:58:19.818   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\global-map-1604404216800.jpg
+2020-11-04 22:58:19.818   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.818   Installing the file.
+2020-11-04 22:58:19.826   Successfully installed the file.
+2020-11-04 22:58:19.826   -- File entry --
+2020-11-04 22:58:19.827   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\global-map-1604404216800.png
+2020-11-04 22:58:19.827   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.827   Installing the file.
+2020-11-04 22:58:19.839   Successfully installed the file.
+2020-11-04 22:58:19.839   -- File entry --
+2020-11-04 22:58:19.841   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\index-chart-down-1604404216800.png
+2020-11-04 22:58:19.841   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.841   Installing the file.
+2020-11-04 22:58:19.846   Successfully installed the file.
+2020-11-04 22:58:19.847   -- File entry --
+2020-11-04 22:58:19.847   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\index-chart-up-1604404216800.png
+2020-11-04 22:58:19.848   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.848   Installing the file.
+2020-11-04 22:58:19.853   Successfully installed the file.
+2020-11-04 22:58:19.853   -- File entry --
+2020-11-04 22:58:19.853   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\index-footer-logo-1604404216800.png
+2020-11-04 22:58:19.854   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.854   Installing the file.
+2020-11-04 22:58:19.860   Successfully installed the file.
+2020-11-04 22:58:19.861   -- File entry --
+2020-11-04 22:58:19.861   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\index-main-logo-1604404216800.png
+2020-11-04 22:58:19.861   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.861   Installing the file.
+2020-11-04 22:58:19.868   Successfully installed the file.
+2020-11-04 22:58:19.868   -- File entry --
+2020-11-04 22:58:19.869   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\login-logo-1604404216800.png
+2020-11-04 22:58:19.869   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.869   Installing the file.
+2020-11-04 22:58:19.875   Successfully installed the file.
+2020-11-04 22:58:19.875   -- File entry --
+2020-11-04 22:58:19.875   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\login-screen-1604404216800.png
+2020-11-04 22:58:19.876   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.876   Installing the file.
+2020-11-04 22:58:19.891   Successfully installed the file.
+2020-11-04 22:58:19.891   -- File entry --
+2020-11-04 22:58:19.892   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\login-text-box-1604404216800.png
+2020-11-04 22:58:19.892   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.892   Installing the file.
+2020-11-04 22:58:19.897   Successfully installed the file.
+2020-11-04 22:58:19.897   -- File entry --
+2020-11-04 22:58:19.898   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\logo-1604404216800.png
+2020-11-04 22:58:19.898   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.898   Installing the file.
+2020-11-04 22:58:19.904   Successfully installed the file.
+2020-11-04 22:58:19.904   -- File entry --
+2020-11-04 22:58:19.905   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\logo-cobranded-1604404216800.png
+2020-11-04 22:58:19.905   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.905   Installing the file.
+2020-11-04 22:58:19.911   Successfully installed the file.
+2020-11-04 22:58:19.911   -- File entry --
+2020-11-04 22:58:19.911   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\logo-compact-1604404216800.png
+2020-11-04 22:58:19.912   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.912   Installing the file.
+2020-11-04 22:58:19.919   Successfully installed the file.
+2020-11-04 22:58:19.919   -- File entry --
+2020-11-04 22:58:19.919   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\logo-dark-bg-1604404216800.png
+2020-11-04 22:58:19.919   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.919   Installing the file.
+2020-11-04 22:58:19.925   Successfully installed the file.
+2020-11-04 22:58:19.926   -- File entry --
+2020-11-04 22:58:19.926   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\minimize_icn-1604404216800.png
+2020-11-04 22:58:19.926   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.926   Installing the file.
+2020-11-04 22:58:19.931   Successfully installed the file.
+2020-11-04 22:58:19.931   -- File entry --
+2020-11-04 22:58:19.932   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\oao-logo-1604404216800.png
+2020-11-04 22:58:19.932   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.932   Installing the file.
+2020-11-04 22:58:19.942   Successfully installed the file.
+2020-11-04 22:58:19.942   -- File entry --
+2020-11-04 22:58:19.943   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\password-input-box-1604404216800.png
+2020-11-04 22:58:19.944   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.944   Installing the file.
+2020-11-04 22:58:19.949   Successfully installed the file.
+2020-11-04 22:58:19.950   -- File entry --
+2020-11-04 22:58:19.950   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\price-logo-1604404216800.png
+2020-11-04 22:58:19.950   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.950   Installing the file.
+2020-11-04 22:58:19.957   Successfully installed the file.
+2020-11-04 22:58:19.957   -- File entry --
+2020-11-04 22:58:19.957   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\primary-lang-logo-1604404216800.png
+2020-11-04 22:58:19.958   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.958   Installing the file.
+2020-11-04 22:58:19.964   Successfully installed the file.
+2020-11-04 22:58:19.965   -- File entry --
+2020-11-04 22:58:19.966   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\print-logo-1604404216800.png
+2020-11-04 22:58:19.966   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.966   Installing the file.
+2020-11-04 22:58:19.976   Successfully installed the file.
+2020-11-04 22:58:19.977   -- File entry --
+2020-11-04 22:58:19.977   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\product-logo-1604404216800.png
+2020-11-04 22:58:19.978   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.978   Installing the file.
+2020-11-04 22:58:19.989   Successfully installed the file.
+2020-11-04 22:58:19.989   -- File entry --
+2020-11-04 22:58:19.990   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\product-logo-compact-1604404216800.png
+2020-11-04 22:58:19.991   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:19.991   Installing the file.
+2020-11-04 22:58:19.997   Successfully installed the file.
+2020-11-04 22:58:19.998   -- File entry --
+2020-11-04 22:58:19.999   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\secondary-lang-logo-1604404216800.png
+2020-11-04 22:58:20.000   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.000   Installing the file.
+2020-11-04 22:58:20.006   Successfully installed the file.
+2020-11-04 22:58:20.007   -- File entry --
+2020-11-04 22:58:20.008   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\tb-pro10-1604404216800.png
+2020-11-04 22:58:20.008   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.008   Installing the file.
+2020-11-04 22:58:20.014   Successfully installed the file.
+2020-11-04 22:58:20.014   -- File entry --
+2020-11-04 22:58:20.015   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\tb2-pro10-1604404216800.png
+2020-11-04 22:58:20.015   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.015   Installing the file.
+2020-11-04 22:58:20.022   Successfully installed the file.
+2020-11-04 22:58:20.022   -- File entry --
+2020-11-04 22:58:20.024   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\text_icn-1604404216800.png
+2020-11-04 22:58:20.024   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.024   Installing the file.
+2020-11-04 22:58:20.030   Successfully installed the file.
+2020-11-04 22:58:20.031   -- File entry --
+2020-11-04 22:58:20.033   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\thunder_icn-1604404216800.png
+2020-11-04 22:58:20.033   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.033   Installing the file.
+2020-11-04 22:58:20.039   Successfully installed the file.
+2020-11-04 22:58:20.039   -- File entry --
+2020-11-04 22:58:20.040   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\titlebar-1604404216800.jpg
+2020-11-04 22:58:20.041   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.041   Installing the file.
+2020-11-04 22:58:20.048   Successfully installed the file.
+2020-11-04 22:58:20.048   -- File entry --
+2020-11-04 22:58:20.050   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img\username-input-box-1604404216800.png
+2020-11-04 22:58:20.050   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.050   Installing the file.
+2020-11-04 22:58:20.056   Successfully installed the file.
+2020-11-04 22:58:20.057   -- File entry --
+2020-11-04 22:58:20.059   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\close_icn-1604404216800.png
+2020-11-04 22:58:20.059   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.059   Installing the file.
+2020-11-04 22:58:20.059   Creating directory: C:\Program Files\My App\assets\app\dist\assets\img-icons
+2020-11-04 22:58:20.066   Successfully installed the file.
+2020-11-04 22:58:20.066   -- File entry --
+2020-11-04 22:58:20.068   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\close_small-1604404216800.png
+2020-11-04 22:58:20.068   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.068   Installing the file.
+2020-11-04 22:58:20.075   Successfully installed the file.
+2020-11-04 22:58:20.075   -- File entry --
+2020-11-04 22:58:20.077   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\detach_icon-1604404216800.png
+2020-11-04 22:58:20.077   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.077   Installing the file.
+2020-11-04 22:58:20.083   Successfully installed the file.
+2020-11-04 22:58:20.084   -- File entry --
+2020-11-04 22:58:20.085   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\maximize_small-1604404216800.png
+2020-11-04 22:58:20.086   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.086   Installing the file.
+2020-11-04 22:58:20.092   Successfully installed the file.
+2020-11-04 22:58:20.093   -- File entry --
+2020-11-04 22:58:20.094   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\max_icn-1604404216800.png
+2020-11-04 22:58:20.095   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.095   Installing the file.
+2020-11-04 22:58:20.100   Successfully installed the file.
+2020-11-04 22:58:20.101   -- File entry --
+2020-11-04 22:58:20.103   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\min_small-1604404216800.png
+2020-11-04 22:58:20.103   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.103   Installing the file.
+2020-11-04 22:58:20.109   Successfully installed the file.
+2020-11-04 22:58:20.109   -- File entry --
+2020-11-04 22:58:20.110   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\multi_icon-1604404216800.png
+2020-11-04 22:58:20.110   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.110   Installing the file.
+2020-11-04 22:58:20.116   Successfully installed the file.
+2020-11-04 22:58:20.116   -- File entry --
+2020-11-04 22:58:20.116   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\settings_icn-1604404216800.png
+2020-11-04 22:58:20.117   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.117   Installing the file.
+2020-11-04 22:58:20.122   Successfully installed the file.
+2020-11-04 22:58:20.123   -- File entry --
+2020-11-04 22:58:20.123   Dest filename: C:\Program Files\My App\assets\app\dist\assets\img-icons\set_icon-1604404216800.png
+2020-11-04 22:58:20.124   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.124   Installing the file.
+2020-11-04 22:58:20.129   Successfully installed the file.
+2020-11-04 22:58:20.129   -- File entry --
+2020-11-04 22:58:20.130   Dest filename: C:\Program Files\My App\assets\app\dist\assets\sounds\sound-1.mp3
+2020-11-04 22:58:20.130   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.130   Installing the file.
+2020-11-04 22:58:20.130   Creating directory: C:\Program Files\My App\assets\app\dist\assets\sounds
+2020-11-04 22:58:20.140   Successfully installed the file.
+2020-11-04 22:58:20.140   -- File entry --
+2020-11-04 22:58:20.141   Dest filename: C:\Program Files\My App\assets\app\dist\assets\sounds\sound-2.mp3
+2020-11-04 22:58:20.141   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.141   Installing the file.
+2020-11-04 22:58:20.195   Successfully installed the file.
+2020-11-04 22:58:20.197   -- File entry --
+2020-11-04 22:58:20.198   Dest filename: C:\Program Files\My App\assets\app\dist\img\splashScreen.jpg
+2020-11-04 22:58:20.199   Time stamp of our file: 2020-11-03 17:22:28.000
+2020-11-04 22:58:20.199   Installing the file.
+2020-11-04 22:58:20.199   Creating directory: C:\Program Files\My App\assets\app\dist\img
+2020-11-04 22:58:20.207   Successfully installed the file.
+2020-11-04 22:58:20.208   -- File entry --
+2020-11-04 22:58:20.209   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\application.exe
+2020-11-04 22:58:20.209   Time stamp of our file: 2020-06-18 21:51:56.000
+2020-11-04 22:58:20.209   Installing the file.
+2020-11-04 22:58:20.209   Creating directory: C:\Program Files\My App\assets\shadowInstaller
+2020-11-04 22:58:20.209   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app
+2020-11-04 22:58:20.468   Successfully installed the file.
+2020-11-04 22:58:20.468   -- File entry --
+2020-11-04 22:58:20.469   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\config.json
+2020-11-04 22:58:20.469   Time stamp of our file: 2020-07-22 20:55:00.000
+2020-11-04 22:58:20.469   Installing the file.
+2020-11-04 22:58:20.474   Successfully installed the file.
+2020-11-04 22:58:20.474   -- File entry --
+2020-11-04 22:58:20.475   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\edge_nativeclr.node
+2020-11-04 22:58:20.475   Time stamp of our file: 2019-09-27 10:16:06.000
+2020-11-04 22:58:20.475   Installing the file.
+2020-11-04 22:58:20.485   Successfully installed the file.
+2020-11-04 22:58:20.486   -- File entry --
+2020-11-04 22:58:20.487   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\node.exe
+2020-11-04 22:58:20.487   Time stamp of our file: 2020-10-29 12:59:28.000
+2020-11-04 22:58:20.487   Installing the file.
+2020-11-04 22:58:21.925   Successfully installed the file.
+2020-11-04 22:58:21.925   -- File entry --
+2020-11-04 22:58:21.926   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\readme.txt
+2020-11-04 22:58:21.926   Time stamp of our file: 2020-10-08 15:15:56.000
+2020-11-04 22:58:21.926   Installing the file.
+2020-11-04 22:58:21.931   Successfully installed the file.
+2020-11-04 22:58:21.931   -- File entry --
+2020-11-04 22:58:21.932   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\splash.bmp
+2020-11-04 22:58:21.932   Time stamp of our file: 2020-10-15 17:53:14.000
+2020-11-04 22:58:21.932   Installing the file.
+2020-11-04 22:58:21.950   Successfully installed the file.
+2020-11-04 22:58:21.950   -- File entry --
+2020-11-04 22:58:21.951   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\unzip.exe
+2020-11-04 22:58:21.951   Time stamp of our file: 2020-02-20 17:07:06.000
+2020-11-04 22:58:21.951   Installing the file.
+2020-11-04 22:58:21.960   Successfully installed the file.
+2020-11-04 22:58:21.960   -- File entry --
+2020-11-04 22:58:21.961   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\vcruntime140.dll
+2020-11-04 22:58:21.961   Time stamp of our file: 2019-10-03 12:21:24.000
+2020-11-04 22:58:21.961   Installing the file.
+2020-11-04 22:58:21.969   Successfully installed the file.
+2020-11-04 22:58:21.969   -- File entry --
+2020-11-04 22:58:21.970   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-console-l1-1-0.dll
+2020-11-04 22:58:21.970   Time stamp of our file: 2018-04-20 07:28:52.000
+2020-11-04 22:58:21.970   Installing the file.
+2020-11-04 22:58:21.970   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app\bin
+2020-11-04 22:58:21.970   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin
+2020-11-04 22:58:21.976   Successfully installed the file.
+2020-11-04 22:58:21.976   -- File entry --
+2020-11-04 22:58:21.976   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-datetime-l1-1-0.dll
+2020-11-04 22:58:21.977   Time stamp of our file: 2018-04-20 07:28:50.000
+2020-11-04 22:58:21.977   Installing the file.
+2020-11-04 22:58:21.982   Successfully installed the file.
+2020-11-04 22:58:21.982   -- File entry --
+2020-11-04 22:58:21.983   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-debug-l1-1-0.dll
+2020-11-04 22:58:21.983   Time stamp of our file: 2018-04-20 07:28:56.000
+2020-11-04 22:58:21.983   Installing the file.
+2020-11-04 22:58:21.988   Successfully installed the file.
+2020-11-04 22:58:21.988   -- File entry --
+2020-11-04 22:58:21.989   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-errorhandling-l1-1-0.dll
+2020-11-04 22:58:21.989   Time stamp of our file: 2018-04-20 07:28:58.000
+2020-11-04 22:58:21.989   Installing the file.
+2020-11-04 22:58:21.994   Successfully installed the file.
+2020-11-04 22:58:21.995   -- File entry --
+2020-11-04 22:58:21.995   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-file-l1-1-0.dll
+2020-11-04 22:58:21.995   Time stamp of our file: 2018-04-20 07:29:02.000
+2020-11-04 22:58:21.995   Installing the file.
+2020-11-04 22:58:22.001   Successfully installed the file.
+2020-11-04 22:58:22.001   -- File entry --
+2020-11-04 22:58:22.001   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-file-l1-2-0.dll
+2020-11-04 22:58:22.002   Time stamp of our file: 2018-04-20 07:37:18.000
+2020-11-04 22:58:22.002   Installing the file.
+2020-11-04 22:58:22.007   Successfully installed the file.
+2020-11-04 22:58:22.007   -- File entry --
+2020-11-04 22:58:22.008   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-file-l2-1-0.dll
+2020-11-04 22:58:22.008   Time stamp of our file: 2018-04-20 07:37:22.000
+2020-11-04 22:58:22.008   Installing the file.
+2020-11-04 22:58:22.014   Successfully installed the file.
+2020-11-04 22:58:22.014   -- File entry --
+2020-11-04 22:58:22.015   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-handle-l1-1-0.dll
+2020-11-04 22:58:22.015   Time stamp of our file: 2018-04-20 07:37:34.000
+2020-11-04 22:58:22.015   Installing the file.
+2020-11-04 22:58:22.021   Successfully installed the file.
+2020-11-04 22:58:22.021   -- File entry --
+2020-11-04 22:58:22.022   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-heap-l1-1-0.dll
+2020-11-04 22:58:22.022   Time stamp of our file: 2018-04-20 07:37:36.000
+2020-11-04 22:58:22.022   Installing the file.
+2020-11-04 22:58:22.028   Successfully installed the file.
+2020-11-04 22:58:22.029   -- File entry --
+2020-11-04 22:58:22.029   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-interlocked-l1-1-0.dll
+2020-11-04 22:58:22.030   Time stamp of our file: 2018-04-20 07:37:38.000
+2020-11-04 22:58:22.030   Installing the file.
+2020-11-04 22:58:22.035   Successfully installed the file.
+2020-11-04 22:58:22.035   -- File entry --
+2020-11-04 22:58:22.036   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-libraryloader-l1-1-0.dll
+2020-11-04 22:58:22.036   Time stamp of our file: 2018-04-20 07:37:14.000
+2020-11-04 22:58:22.036   Installing the file.
+2020-11-04 22:58:22.041   Successfully installed the file.
+2020-11-04 22:58:22.042   -- File entry --
+2020-11-04 22:58:22.043   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-localization-l1-2-0.dll
+2020-11-04 22:58:22.043   Time stamp of our file: 2018-04-20 07:37:18.000
+2020-11-04 22:58:22.043   Installing the file.
+2020-11-04 22:58:22.049   Successfully installed the file.
+2020-11-04 22:58:22.050   -- File entry --
+2020-11-04 22:58:22.050   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-memory-l1-1-0.dll
+2020-11-04 22:58:22.050   Time stamp of our file: 2018-04-20 07:37:20.000
+2020-11-04 22:58:22.050   Installing the file.
+2020-11-04 22:58:22.055   Successfully installed the file.
+2020-11-04 22:58:22.056   -- File entry --
+2020-11-04 22:58:22.056   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-namedpipe-l1-1-0.dll
+2020-11-04 22:58:22.056   Time stamp of our file: 2018-04-20 07:37:42.000
+2020-11-04 22:58:22.056   Installing the file.
+2020-11-04 22:58:22.063   Successfully installed the file.
+2020-11-04 22:58:22.063   -- File entry --
+2020-11-04 22:58:22.064   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-processenvironment-l1-1-0.dll
+2020-11-04 22:58:22.064   Time stamp of our file: 2018-04-20 07:37:36.000
+2020-11-04 22:58:22.064   Installing the file.
+2020-11-04 22:58:22.069   Successfully installed the file.
+2020-11-04 22:58:22.070   -- File entry --
+2020-11-04 22:58:22.070   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-processthreads-l1-1-0.dll
+2020-11-04 22:58:22.071   Time stamp of our file: 2018-04-20 07:37:22.000
+2020-11-04 22:58:22.071   Installing the file.
+2020-11-04 22:58:22.078   Successfully installed the file.
+2020-11-04 22:58:22.078   -- File entry --
+2020-11-04 22:58:22.079   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-processthreads-l1-1-1.dll
+2020-11-04 22:58:22.079   Time stamp of our file: 2018-04-20 07:37:24.000
+2020-11-04 22:58:22.079   Installing the file.
+2020-11-04 22:58:22.084   Successfully installed the file.
+2020-11-04 22:58:22.084   -- File entry --
+2020-11-04 22:58:22.084   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-profile-l1-1-0.dll
+2020-11-04 22:58:22.085   Time stamp of our file: 2018-04-20 07:37:34.000
+2020-11-04 22:58:22.085   Installing the file.
+2020-11-04 22:58:22.090   Successfully installed the file.
+2020-11-04 22:58:22.090   -- File entry --
+2020-11-04 22:58:22.091   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-rtlsupport-l1-1-0.dll
+2020-11-04 22:58:22.091   Time stamp of our file: 2018-04-20 07:37:34.000
+2020-11-04 22:58:22.091   Installing the file.
+2020-11-04 22:58:22.097   Successfully installed the file.
+2020-11-04 22:58:22.097   -- File entry --
+2020-11-04 22:58:22.097   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-string-l1-1-0.dll
+2020-11-04 22:58:22.097   Time stamp of our file: 2018-04-20 07:37:22.000
+2020-11-04 22:58:22.097   Installing the file.
+2020-11-04 22:58:22.103   Successfully installed the file.
+2020-11-04 22:58:22.103   -- File entry --
+2020-11-04 22:58:22.103   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-synch-l1-1-0.dll
+2020-11-04 22:58:22.103   Time stamp of our file: 2018-04-20 07:37:24.000
+2020-11-04 22:58:22.103   Installing the file.
+2020-11-04 22:58:22.110   Successfully installed the file.
+2020-11-04 22:58:22.110   -- File entry --
+2020-11-04 22:58:22.110   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-synch-l1-2-0.dll
+2020-11-04 22:58:22.111   Time stamp of our file: 2018-04-20 07:37:20.000
+2020-11-04 22:58:22.111   Installing the file.
+2020-11-04 22:58:22.116   Successfully installed the file.
+2020-11-04 22:58:22.117   -- File entry --
+2020-11-04 22:58:22.117   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-sysinfo-l1-1-0.dll
+2020-11-04 22:58:22.118   Time stamp of our file: 2018-04-20 07:37:36.000
+2020-11-04 22:58:22.118   Installing the file.
+2020-11-04 22:58:22.123   Successfully installed the file.
+2020-11-04 22:58:22.124   -- File entry --
+2020-11-04 22:58:22.124   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-timezone-l1-1-0.dll
+2020-11-04 22:58:22.125   Time stamp of our file: 2018-04-20 07:37:24.000
+2020-11-04 22:58:22.125   Installing the file.
+2020-11-04 22:58:22.131   Successfully installed the file.
+2020-11-04 22:58:22.132   -- File entry --
+2020-11-04 22:58:22.133   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-core-util-l1-1-0.dll
+2020-11-04 22:58:22.133   Time stamp of our file: 2018-04-20 07:37:38.000
+2020-11-04 22:58:22.133   Installing the file.
+2020-11-04 22:58:22.138   Successfully installed the file.
+2020-11-04 22:58:22.138   -- File entry --
+2020-11-04 22:58:22.139   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-conio-l1-1-0.dll
+2020-11-04 22:58:22.139   Time stamp of our file: 2018-04-20 07:37:26.000
+2020-11-04 22:58:22.139   Installing the file.
+2020-11-04 22:58:22.145   Successfully installed the file.
+2020-11-04 22:58:22.145   -- File entry --
+2020-11-04 22:58:22.146   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-convert-l1-1-0.dll
+2020-11-04 22:58:22.146   Time stamp of our file: 2018-04-20 07:37:24.000
+2020-11-04 22:58:22.146   Installing the file.
+2020-11-04 22:58:22.152   Successfully installed the file.
+2020-11-04 22:58:22.153   -- File entry --
+2020-11-04 22:58:22.154   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-environment-l1-1-0.dll
+2020-11-04 22:58:22.154   Time stamp of our file: 2018-04-20 07:37:36.000
+2020-11-04 22:58:22.154   Installing the file.
+2020-11-04 22:58:22.160   Successfully installed the file.
+2020-11-04 22:58:22.160   -- File entry --
+2020-11-04 22:58:22.161   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-filesystem-l1-1-0.dll
+2020-11-04 22:58:22.161   Time stamp of our file: 2018-04-20 07:37:26.000
+2020-11-04 22:58:22.161   Installing the file.
+2020-11-04 22:58:22.167   Successfully installed the file.
+2020-11-04 22:58:22.167   -- File entry --
+2020-11-04 22:58:22.168   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-heap-l1-1-0.dll
+2020-11-04 22:58:22.168   Time stamp of our file: 2018-04-20 07:37:36.000
+2020-11-04 22:58:22.168   Installing the file.
+2020-11-04 22:58:22.174   Successfully installed the file.
+2020-11-04 22:58:22.174   -- File entry --
+2020-11-04 22:58:22.174   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-locale-l1-1-0.dll
+2020-11-04 22:58:22.175   Time stamp of our file: 2018-04-20 07:37:36.000
+2020-11-04 22:58:22.175   Installing the file.
+2020-11-04 22:58:22.181   Successfully installed the file.
+2020-11-04 22:58:22.181   -- File entry --
+2020-11-04 22:58:22.182   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-math-l1-1-0.dll
+2020-11-04 22:58:22.182   Time stamp of our file: 2018-04-20 07:37:18.000
+2020-11-04 22:58:22.182   Installing the file.
+2020-11-04 22:58:22.188   Successfully installed the file.
+2020-11-04 22:58:22.189   -- File entry --
+2020-11-04 22:58:22.190   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-multibyte-l1-1-0.dll
+2020-11-04 22:58:22.190   Time stamp of our file: 2018-04-20 07:37:20.000
+2020-11-04 22:58:22.190   Installing the file.
+2020-11-04 22:58:22.196   Successfully installed the file.
+2020-11-04 22:58:22.196   -- File entry --
+2020-11-04 22:58:22.196   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-private-l1-1-0.dll
+2020-11-04 22:58:22.197   Time stamp of our file: 2018-04-20 07:37:26.000
+2020-11-04 22:58:22.197   Installing the file.
+2020-11-04 22:58:22.203   Successfully installed the file.
+2020-11-04 22:58:22.204   -- File entry --
+2020-11-04 22:58:22.204   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-process-l1-1-0.dll
+2020-11-04 22:58:22.204   Time stamp of our file: 2018-04-20 07:37:26.000
+2020-11-04 22:58:22.204   Installing the file.
+2020-11-04 22:58:22.211   Successfully installed the file.
+2020-11-04 22:58:22.211   -- File entry --
+2020-11-04 22:58:22.212   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-runtime-l1-1-0.dll
+2020-11-04 22:58:22.212   Time stamp of our file: 2018-04-20 07:37:26.000
+2020-11-04 22:58:22.212   Installing the file.
+2020-11-04 22:58:22.217   Successfully installed the file.
+2020-11-04 22:58:22.217   -- File entry --
+2020-11-04 22:58:22.218   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-stdio-l1-1-0.dll
+2020-11-04 22:58:22.218   Time stamp of our file: 2018-04-20 07:37:30.000
+2020-11-04 22:58:22.218   Installing the file.
+2020-11-04 22:58:22.223   Successfully installed the file.
+2020-11-04 22:58:22.223   -- File entry --
+2020-11-04 22:58:22.223   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-string-l1-1-0.dll
+2020-11-04 22:58:22.224   Time stamp of our file: 2018-04-20 07:37:32.000
+2020-11-04 22:58:22.224   Installing the file.
+2020-11-04 22:58:22.229   Successfully installed the file.
+2020-11-04 22:58:22.229   -- File entry --
+2020-11-04 22:58:22.230   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-time-l1-1-0.dll
+2020-11-04 22:58:22.230   Time stamp of our file: 2018-04-20 07:37:30.000
+2020-11-04 22:58:22.230   Installing the file.
+2020-11-04 22:58:22.235   Successfully installed the file.
+2020-11-04 22:58:22.235   -- File entry --
+2020-11-04 22:58:22.235   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\api-ms-win-crt-utility-l1-1-0.dll
+2020-11-04 22:58:22.236   Time stamp of our file: 2018-04-20 07:37:38.000
+2020-11-04 22:58:22.236   Installing the file.
+2020-11-04 22:58:22.240   Successfully installed the file.
+2020-11-04 22:58:22.241   -- File entry --
+2020-11-04 22:58:22.241   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\chrome_100_percent.pak
+2020-11-04 22:58:22.241   Time stamp of our file: 2019-03-08 20:47:02.000
+2020-11-04 22:58:22.241   Installing the file.
+2020-11-04 22:58:22.277   Successfully installed the file.
+2020-11-04 22:58:22.277   -- File entry --
+2020-11-04 22:58:22.278   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\chrome_200_percent.pak
+2020-11-04 22:58:22.278   Time stamp of our file: 2019-03-08 20:47:02.000
+2020-11-04 22:58:22.278   Installing the file.
+2020-11-04 22:58:22.315   Successfully installed the file.
+2020-11-04 22:58:22.315   -- File entry --
+2020-11-04 22:58:22.316   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\d3dcompiler_47.dll
+2020-11-04 22:58:22.316   Time stamp of our file: 2019-03-10 13:50:02.000
+2020-11-04 22:58:22.316   Installing the file.
+2020-11-04 22:58:22.448   Successfully installed the file.
+2020-11-04 22:58:22.448   -- File entry --
+2020-11-04 22:58:22.449   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\features.manifest
+2020-11-04 22:58:22.449   Time stamp of our file: 2019-03-10 12:39:12.000
+2020-11-04 22:58:22.449   Installing the file.
+2020-11-04 22:58:22.453   Successfully installed the file.
+2020-11-04 22:58:22.454   -- File entry --
+2020-11-04 22:58:22.454   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\ffmpeg.dll
+2020-11-04 22:58:22.454   Time stamp of our file: 2019-03-10 13:50:04.000
+2020-11-04 22:58:22.454   Installing the file.
+2020-11-04 22:58:22.506   Successfully installed the file.
+2020-11-04 22:58:22.506   -- File entry --
+2020-11-04 22:58:22.507   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\icudtl.dat
+2020-11-04 22:58:22.507   Time stamp of our file: 2019-03-08 20:25:54.000
+2020-11-04 22:58:22.507   Installing the file.
+2020-11-04 22:58:22.842   Successfully installed the file.
+2020-11-04 22:58:22.842   -- File entry --
+2020-11-04 22:58:22.842   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\libEGL.dll
+2020-11-04 22:58:22.842   Time stamp of our file: 2019-03-10 13:50:08.000
+2020-11-04 22:58:22.842   Installing the file.
+2020-11-04 22:58:22.848   Successfully installed the file.
+2020-11-04 22:58:22.848   -- File entry --
+2020-11-04 22:58:22.848   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\libGLESv2.dll
+2020-11-04 22:58:22.849   Time stamp of our file: 2019-03-10 13:50:10.000
+2020-11-04 22:58:22.849   Installing the file.
+2020-11-04 22:58:22.956   Successfully installed the file.
+2020-11-04 22:58:22.956   -- File entry --
+2020-11-04 22:58:22.958   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\msvcp140.dll
+2020-11-04 22:58:22.958   Time stamp of our file: 2019-03-10 13:50:18.000
+2020-11-04 22:58:22.958   Installing the file.
+2020-11-04 22:58:22.979   Successfully installed the file.
+2020-11-04 22:58:22.979   -- File entry --
+2020-11-04 22:58:22.979   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\natives_blob.bin
+2020-11-04 22:58:22.980   Time stamp of our file: 2019-03-08 21:41:22.000
+2020-11-04 22:58:22.980   Installing the file.
+2020-11-04 22:58:22.988   Successfully installed the file.
+2020-11-04 22:58:22.989   -- File entry --
+2020-11-04 22:58:22.990   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\node.dll
+2020-11-04 22:58:22.990   Time stamp of our file: 2019-03-10 13:50:14.000
+2020-11-04 22:58:22.990   Installing the file.
+2020-11-04 22:58:23.581   Successfully installed the file.
+2020-11-04 22:58:23.582   -- File entry --
+2020-11-04 22:58:23.582   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\openfin.exe
+2020-11-04 22:58:23.582   Time stamp of our file: 2019-03-10 13:50:16.000
+2020-11-04 22:58:23.582   Installing the file.
+2020-11-04 22:58:26.734   Successfully installed the file.
+2020-11-04 22:58:26.734   -- File entry --
+2020-11-04 22:58:26.735   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\OpenFinRVM.exe
+2020-11-04 22:58:26.735   Time stamp of our file: 2019-07-09 15:53:38.000
+2020-11-04 22:58:26.735   Installing the file.
+2020-11-04 22:58:26.817   Successfully installed the file.
+2020-11-04 22:58:26.817   -- File entry --
+2020-11-04 22:58:26.818   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\README.txt
+2020-11-04 22:58:26.818   Time stamp of our file: 2019-03-10 12:39:12.000
+2020-11-04 22:58:26.818   Installing the file.
+2020-11-04 22:58:26.823   Successfully installed the file.
+2020-11-04 22:58:26.823   -- File entry --
+2020-11-04 22:58:26.823   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources.pak
+2020-11-04 22:58:26.823   Time stamp of our file: 2019-03-08 20:45:12.000
+2020-11-04 22:58:26.823   Installing the file.
+2020-11-04 22:58:27.222   Successfully installed the file.
+2020-11-04 22:58:27.222   -- File entry --
+2020-11-04 22:58:27.223   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\ucrtbase.dll
+2020-11-04 22:58:27.223   Time stamp of our file: 2018-04-20 07:37:42.000
+2020-11-04 22:58:27.223   Installing the file.
+2020-11-04 22:58:27.264   Successfully installed the file.
+2020-11-04 22:58:27.265   -- File entry --
+2020-11-04 22:58:27.265   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\v8_context_snapshot.bin
+2020-11-04 22:58:27.265   Time stamp of our file: 2019-03-08 21:59:48.000
+2020-11-04 22:58:27.266   Installing the file.
+2020-11-04 22:58:27.313   Successfully installed the file.
+2020-11-04 22:58:27.314   -- File entry --
+2020-11-04 22:58:27.315   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\vcruntime140.dll
+2020-11-04 22:58:27.315   Time stamp of our file: 2019-03-10 13:50:18.000
+2020-11-04 22:58:27.315   Installing the file.
+2020-11-04 22:58:27.322   Successfully installed the file.
+2020-11-04 22:58:27.322   -- File entry --
+2020-11-04 22:58:27.322   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\version
+2020-11-04 22:58:27.323   Time stamp of our file: 2019-03-10 13:50:18.000
+2020-11-04 22:58:27.323   Installing the file.
+2020-11-04 22:58:27.328   Successfully installed the file.
+2020-11-04 22:58:27.328   -- File entry --
+2020-11-04 22:58:27.328   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\am.pak
+2020-11-04 22:58:27.328   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.328   Installing the file.
+2020-11-04 22:58:27.328   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales
+2020-11-04 22:58:27.339   Successfully installed the file.
+2020-11-04 22:58:27.340   -- File entry --
+2020-11-04 22:58:27.340   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ar.pak
+2020-11-04 22:58:27.341   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.341   Installing the file.
+2020-11-04 22:58:27.354   Successfully installed the file.
+2020-11-04 22:58:27.354   -- File entry --
+2020-11-04 22:58:27.355   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\bg.pak
+2020-11-04 22:58:27.355   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.355   Installing the file.
+2020-11-04 22:58:27.367   Successfully installed the file.
+2020-11-04 22:58:27.368   -- File entry --
+2020-11-04 22:58:27.368   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\bn.pak
+2020-11-04 22:58:27.369   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.369   Installing the file.
+2020-11-04 22:58:27.381   Successfully installed the file.
+2020-11-04 22:58:27.382   -- File entry --
+2020-11-04 22:58:27.383   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ca.pak
+2020-11-04 22:58:27.383   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.383   Installing the file.
+2020-11-04 22:58:27.395   Successfully installed the file.
+2020-11-04 22:58:27.396   -- File entry --
+2020-11-04 22:58:27.396   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\cs.pak
+2020-11-04 22:58:27.396   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.396   Installing the file.
+2020-11-04 22:58:27.407   Successfully installed the file.
+2020-11-04 22:58:27.408   -- File entry --
+2020-11-04 22:58:27.408   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\da.pak
+2020-11-04 22:58:27.408   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.408   Installing the file.
+2020-11-04 22:58:27.421   Successfully installed the file.
+2020-11-04 22:58:27.421   -- File entry --
+2020-11-04 22:58:27.421   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\de.pak
+2020-11-04 22:58:27.421   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.421   Installing the file.
+2020-11-04 22:58:27.432   Successfully installed the file.
+2020-11-04 22:58:27.432   -- File entry --
+2020-11-04 22:58:27.433   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\el.pak
+2020-11-04 22:58:27.433   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.433   Installing the file.
+2020-11-04 22:58:27.445   Successfully installed the file.
+2020-11-04 22:58:27.445   -- File entry --
+2020-11-04 22:58:27.446   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\en-GB.pak
+2020-11-04 22:58:27.446   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.446   Installing the file.
+2020-11-04 22:58:27.455   Successfully installed the file.
+2020-11-04 22:58:27.455   -- File entry --
+2020-11-04 22:58:27.456   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\en-US.pak
+2020-11-04 22:58:27.456   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.456   Installing the file.
+2020-11-04 22:58:27.464   Successfully installed the file.
+2020-11-04 22:58:27.465   -- File entry --
+2020-11-04 22:58:27.465   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\es-419.pak
+2020-11-04 22:58:27.465   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.465   Installing the file.
+2020-11-04 22:58:27.474   Successfully installed the file.
+2020-11-04 22:58:27.474   -- File entry --
+2020-11-04 22:58:27.475   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\es.pak
+2020-11-04 22:58:27.475   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.475   Installing the file.
+2020-11-04 22:58:27.483   Successfully installed the file.
+2020-11-04 22:58:27.483   -- File entry --
+2020-11-04 22:58:27.483   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\et.pak
+2020-11-04 22:58:27.484   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.484   Installing the file.
+2020-11-04 22:58:27.493   Successfully installed the file.
+2020-11-04 22:58:27.494   -- File entry --
+2020-11-04 22:58:27.495   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\fa.pak
+2020-11-04 22:58:27.495   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.495   Installing the file.
+2020-11-04 22:58:27.505   Successfully installed the file.
+2020-11-04 22:58:27.505   -- File entry --
+2020-11-04 22:58:27.505   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\fi.pak
+2020-11-04 22:58:27.505   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.505   Installing the file.
+2020-11-04 22:58:27.516   Successfully installed the file.
+2020-11-04 22:58:27.516   -- File entry --
+2020-11-04 22:58:27.517   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\fil.pak
+2020-11-04 22:58:27.517   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.517   Installing the file.
+2020-11-04 22:58:27.526   Successfully installed the file.
+2020-11-04 22:58:27.526   -- File entry --
+2020-11-04 22:58:27.527   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\fr.pak
+2020-11-04 22:58:27.527   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.527   Installing the file.
+2020-11-04 22:58:27.537   Successfully installed the file.
+2020-11-04 22:58:27.537   -- File entry --
+2020-11-04 22:58:27.538   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\gu.pak
+2020-11-04 22:58:27.538   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.538   Installing the file.
+2020-11-04 22:58:27.549   Successfully installed the file.
+2020-11-04 22:58:27.549   -- File entry --
+2020-11-04 22:58:27.550   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\he.pak
+2020-11-04 22:58:27.550   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.550   Installing the file.
+2020-11-04 22:58:27.560   Successfully installed the file.
+2020-11-04 22:58:27.560   -- File entry --
+2020-11-04 22:58:27.561   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\hi.pak
+2020-11-04 22:58:27.561   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.561   Installing the file.
+2020-11-04 22:58:27.572   Successfully installed the file.
+2020-11-04 22:58:27.572   -- File entry --
+2020-11-04 22:58:27.573   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\hr.pak
+2020-11-04 22:58:27.573   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.573   Installing the file.
+2020-11-04 22:58:27.585   Successfully installed the file.
+2020-11-04 22:58:27.585   -- File entry --
+2020-11-04 22:58:27.585   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\hu.pak
+2020-11-04 22:58:27.585   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.585   Installing the file.
+2020-11-04 22:58:27.595   Successfully installed the file.
+2020-11-04 22:58:27.595   -- File entry --
+2020-11-04 22:58:27.595   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\id.pak
+2020-11-04 22:58:27.595   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.595   Installing the file.
+2020-11-04 22:58:27.605   Successfully installed the file.
+2020-11-04 22:58:27.606   -- File entry --
+2020-11-04 22:58:27.607   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\it.pak
+2020-11-04 22:58:27.607   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.607   Installing the file.
+2020-11-04 22:58:27.616   Successfully installed the file.
+2020-11-04 22:58:27.617   -- File entry --
+2020-11-04 22:58:27.617   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ja.pak
+2020-11-04 22:58:27.617   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.617   Installing the file.
+2020-11-04 22:58:27.627   Successfully installed the file.
+2020-11-04 22:58:27.627   -- File entry --
+2020-11-04 22:58:27.628   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\kn.pak
+2020-11-04 22:58:27.628   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.628   Installing the file.
+2020-11-04 22:58:27.640   Successfully installed the file.
+2020-11-04 22:58:27.641   -- File entry --
+2020-11-04 22:58:27.641   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ko.pak
+2020-11-04 22:58:27.642   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.642   Installing the file.
+2020-11-04 22:58:27.654   Successfully installed the file.
+2020-11-04 22:58:27.654   -- File entry --
+2020-11-04 22:58:27.655   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\lt.pak
+2020-11-04 22:58:27.655   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.655   Installing the file.
+2020-11-04 22:58:27.667   Successfully installed the file.
+2020-11-04 22:58:27.667   -- File entry --
+2020-11-04 22:58:27.668   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\lv.pak
+2020-11-04 22:58:27.668   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.668   Installing the file.
+2020-11-04 22:58:27.678   Successfully installed the file.
+2020-11-04 22:58:27.678   -- File entry --
+2020-11-04 22:58:27.678   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ml.pak
+2020-11-04 22:58:27.679   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.679   Installing the file.
+2020-11-04 22:58:27.693   Successfully installed the file.
+2020-11-04 22:58:27.693   -- File entry --
+2020-11-04 22:58:27.693   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\mr.pak
+2020-11-04 22:58:27.694   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.694   Installing the file.
+2020-11-04 22:58:27.705   Successfully installed the file.
+2020-11-04 22:58:27.705   -- File entry --
+2020-11-04 22:58:27.705   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ms.pak
+2020-11-04 22:58:27.705   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.705   Installing the file.
+2020-11-04 22:58:27.715   Successfully installed the file.
+2020-11-04 22:58:27.716   -- File entry --
+2020-11-04 22:58:27.717   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\nb.pak
+2020-11-04 22:58:27.717   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.717   Installing the file.
+2020-11-04 22:58:27.726   Successfully installed the file.
+2020-11-04 22:58:27.726   -- File entry --
+2020-11-04 22:58:27.727   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\nl.pak
+2020-11-04 22:58:27.727   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.727   Installing the file.
+2020-11-04 22:58:27.737   Successfully installed the file.
+2020-11-04 22:58:27.738   -- File entry --
+2020-11-04 22:58:27.739   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\pl.pak
+2020-11-04 22:58:27.740   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.740   Installing the file.
+2020-11-04 22:58:27.750   Successfully installed the file.
+2020-11-04 22:58:27.751   -- File entry --
+2020-11-04 22:58:27.751   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\pt-BR.pak
+2020-11-04 22:58:27.751   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.752   Installing the file.
+2020-11-04 22:58:27.761   Successfully installed the file.
+2020-11-04 22:58:27.762   -- File entry --
+2020-11-04 22:58:27.762   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\pt-PT.pak
+2020-11-04 22:58:27.763   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.763   Installing the file.
+2020-11-04 22:58:27.772   Successfully installed the file.
+2020-11-04 22:58:27.772   -- File entry --
+2020-11-04 22:58:27.773   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ro.pak
+2020-11-04 22:58:27.773   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.773   Installing the file.
+2020-11-04 22:58:27.785   Successfully installed the file.
+2020-11-04 22:58:27.785   -- File entry --
+2020-11-04 22:58:27.786   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ru.pak
+2020-11-04 22:58:27.786   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.786   Installing the file.
+2020-11-04 22:58:27.797   Successfully installed the file.
+2020-11-04 22:58:27.797   -- File entry --
+2020-11-04 22:58:27.798   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\sk.pak
+2020-11-04 22:58:27.798   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.798   Installing the file.
+2020-11-04 22:58:27.808   Successfully installed the file.
+2020-11-04 22:58:27.809   -- File entry --
+2020-11-04 22:58:27.809   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\sl.pak
+2020-11-04 22:58:27.809   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.809   Installing the file.
+2020-11-04 22:58:27.818   Successfully installed the file.
+2020-11-04 22:58:27.819   -- File entry --
+2020-11-04 22:58:27.819   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\sr.pak
+2020-11-04 22:58:27.819   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.819   Installing the file.
+2020-11-04 22:58:27.830   Successfully installed the file.
+2020-11-04 22:58:27.830   -- File entry --
+2020-11-04 22:58:27.830   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\sv.pak
+2020-11-04 22:58:27.830   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.830   Installing the file.
+2020-11-04 22:58:27.841   Successfully installed the file.
+2020-11-04 22:58:27.842   -- File entry --
+2020-11-04 22:58:27.842   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\sw.pak
+2020-11-04 22:58:27.842   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.842   Installing the file.
+2020-11-04 22:58:27.852   Successfully installed the file.
+2020-11-04 22:58:27.852   -- File entry --
+2020-11-04 22:58:27.853   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\ta.pak
+2020-11-04 22:58:27.853   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.853   Installing the file.
+2020-11-04 22:58:27.867   Successfully installed the file.
+2020-11-04 22:58:27.867   -- File entry --
+2020-11-04 22:58:27.868   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\te.pak
+2020-11-04 22:58:27.868   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.868   Installing the file.
+2020-11-04 22:58:27.880   Successfully installed the file.
+2020-11-04 22:58:27.880   -- File entry --
+2020-11-04 22:58:27.880   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\th.pak
+2020-11-04 22:58:27.881   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.881   Installing the file.
+2020-11-04 22:58:27.892   Successfully installed the file.
+2020-11-04 22:58:27.892   -- File entry --
+2020-11-04 22:58:27.892   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\tr.pak
+2020-11-04 22:58:27.893   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.893   Installing the file.
+2020-11-04 22:58:27.903   Successfully installed the file.
+2020-11-04 22:58:27.904   -- File entry --
+2020-11-04 22:58:27.904   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\uk.pak
+2020-11-04 22:58:27.905   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.905   Installing the file.
+2020-11-04 22:58:27.916   Successfully installed the file.
+2020-11-04 22:58:27.916   -- File entry --
+2020-11-04 22:58:27.917   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\vi.pak
+2020-11-04 22:58:27.917   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.917   Installing the file.
+2020-11-04 22:58:27.927   Successfully installed the file.
+2020-11-04 22:58:27.927   -- File entry --
+2020-11-04 22:58:27.927   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\zh-CN.pak
+2020-11-04 22:58:27.928   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.928   Installing the file.
+2020-11-04 22:58:27.937   Successfully installed the file.
+2020-11-04 22:58:27.937   -- File entry --
+2020-11-04 22:58:27.938   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\locales\zh-TW.pak
+2020-11-04 22:58:27.938   Time stamp of our file: 2019-03-08 20:41:38.000
+2020-11-04 22:58:27.938   Installing the file.
+2020-11-04 22:58:27.948   Successfully installed the file.
+2020-11-04 22:58:27.948   -- File entry --
+2020-11-04 22:58:27.949   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\adapter.asar
+2020-11-04 22:58:27.949   Time stamp of our file: 2019-03-10 12:46:20.000
+2020-11-04 22:58:27.949   Installing the file.
+2020-11-04 22:58:27.949   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources
+2020-11-04 22:58:27.966   Successfully installed the file.
+2020-11-04 22:58:27.966   -- File entry --
+2020-11-04 22:58:27.967   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\adapter.asar.ofds
+2020-11-04 22:58:27.967   Time stamp of our file: 2019-03-10 12:46:20.000
+2020-11-04 22:58:27.967   Installing the file.
+2020-11-04 22:58:27.971   Successfully installed the file.
+2020-11-04 22:58:27.972   -- File entry --
+2020-11-04 22:58:27.973   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\app.asar
+2020-11-04 22:58:27.973   Time stamp of our file: 2019-03-10 12:45:40.000
+2020-11-04 22:58:27.973   Installing the file.
+2020-11-04 22:58:28.047   Successfully installed the file.
+2020-11-04 22:58:28.047   -- File entry --
+2020-11-04 22:58:28.047   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\app.asar.ofds
+2020-11-04 22:58:28.048   Time stamp of our file: 2019-03-10 12:45:40.000
+2020-11-04 22:58:28.048   Installing the file.
+2020-11-04 22:58:28.052   Successfully installed the file.
+2020-11-04 22:58:28.052   -- File entry --
+2020-11-04 22:58:28.053   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\openfin.asar
+2020-11-04 22:58:28.053   Time stamp of our file: 2019-03-10 13:28:32.000
+2020-11-04 22:58:28.053   Installing the file.
+2020-11-04 22:58:28.095   Successfully installed the file.
+2020-11-04 22:58:28.095   -- File entry --
+2020-11-04 22:58:28.096   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\openfin.asar.ofds
+2020-11-04 22:58:28.096   Time stamp of our file: 2019-03-10 13:28:34.000
+2020-11-04 22:58:28.096   Installing the file.
+2020-11-04 22:58:28.101   Successfully installed the file.
+2020-11-04 22:58:28.101   -- File entry --
+2020-11-04 22:58:28.101   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\plugins\flash\pepflashplayer.dll
+2020-11-04 22:58:28.102   Time stamp of our file: 2019-03-10 12:39:12.000
+2020-11-04 22:58:28.102   Installing the file.
+2020-11-04 22:58:28.102   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\plugins
+2020-11-04 22:58:28.103   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app\bin\openfin\resources\plugins\flash
+2020-11-04 22:58:29.076   Successfully installed the file.
+2020-11-04 22:58:29.076   -- File entry --
+2020-11-04 22:58:29.077   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\resources\client.cs
+2020-11-04 22:58:29.077   Time stamp of our file: 2018-08-17 12:55:42.000
+2020-11-04 22:58:29.077   Installing the file.
+2020-11-04 22:58:29.077   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app\resources
+2020-11-04 22:58:29.083   Successfully installed the file.
+2020-11-04 22:58:29.083   -- File entry --
+2020-11-04 22:58:29.083   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\resources\edge-cs.dll
+2020-11-04 22:58:29.083   Time stamp of our file: 2016-08-28 23:08:06.000
+2020-11-04 22:58:29.083   Installing the file.
+2020-11-04 22:58:29.089   Successfully installed the file.
+2020-11-04 22:58:29.089   -- File entry --
+2020-11-04 22:58:29.089   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\resources\server.cs
+2020-11-04 22:58:29.089   Time stamp of our file: 2018-08-17 12:55:42.000
+2020-11-04 22:58:29.089   Installing the file.
+2020-11-04 22:58:29.095   Successfully installed the file.
+2020-11-04 22:58:29.095   -- File entry --
+2020-11-04 22:58:29.095   Dest filename: C:\Program Files\My App\assets\shadowInstaller\app\resources\vendor\NDde.dll
+2020-11-04 22:58:29.095   Time stamp of our file: 2018-08-17 12:55:42.000
+2020-11-04 22:58:29.096   Installing the file.
+2020-11-04 22:58:29.096   Creating directory: C:\Program Files\My App\assets\shadowInstaller\app\resources\vendor
+2020-11-04 22:58:29.103   Successfully installed the file.
+2020-11-04 22:58:29.104   -- Icon entry --
+2020-11-04 22:58:29.105   Dest filename: C:\Users\Public\Desktop\My App.lnk
+2020-11-04 22:58:29.105   Creating the icon.
+2020-11-04 22:58:29.129   Successfully created the icon.
+2020-11-04 22:58:29.132   -- Icon entry --
+2020-11-04 22:58:29.132   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\My App\My App.lnk
+2020-11-04 22:58:29.133   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\My App
+2020-11-04 22:58:29.134   Creating the icon.
+2020-11-04 22:58:29.136   Successfully created the icon.
+2020-11-04 22:58:29.137   -- Icon entry --
+2020-11-04 22:58:29.137   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\My App\Restart - My App.lnk
+2020-11-04 22:58:29.138   Creating the icon.
+2020-11-04 22:58:29.141   Successfully created the icon.
+2020-11-04 22:58:29.148   Installation process succeeded.
+2020-11-04 22:58:29.151   Need to restart Windows? No
+2020-11-04 22:58:50.992   -- Run entry --
+2020-11-04 22:58:50.992   Run as: Original user
+2020-11-04 22:58:50.992   Type: Exec
+2020-11-04 22:58:50.992   Filename: C:\Program Files\My App\assets\shadowInstaller\app\application.exe
+2020-11-04 22:58:50.992   Parameters: 0
+2020-11-04 22:58:51.406   Deinitializing Setup.
+2020-11-04 22:58:51.410   Stopping 64-bit helper process. (PID: 27596)
+2020-11-04 22:58:51.415   Helper process exited.
+2020-11-04 22:58:51.432   Log closed.
